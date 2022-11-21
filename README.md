@@ -7,13 +7,19 @@ Simplest Webpack 5 Boilerplate.
 
 No babel, SASS, and other features.
 
+## Install
+```sh
+$ git clone https://github.com/mqce/Webpack5-Minimum-Boilerplate.git
+$ cd Webpack5-Minimum-Boilerplate
+$ npm i
+```
+
 ## Setup
 ```sh
 $ npm install
 ```
 
 ## Build
-Build the app in production mode
 ```sh
 $ npm run build
 ```
